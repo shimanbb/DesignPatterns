@@ -1,5 +1,5 @@
 ﻿
-namespace Decorator.Problem
+namespace Decorator.Solution
 {
     public interface ICar
     {

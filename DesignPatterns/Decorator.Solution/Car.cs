@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Decorator.Problem
+namespace Decorator.Solution
 {
     public class Car : ICar
     {
@@ -8,7 +8,6 @@ namespace Decorator.Problem
         {
             Console.WriteLine("Creating Car");
         }
-
         public string GetDescription()
         {
             return "Car";
